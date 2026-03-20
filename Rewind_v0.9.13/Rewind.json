@@ -1,0 +1,11 @@
+{
+  "id": "Rewind",
+  "name": "Rewind",
+  "author": "皮一下就很凡@Bilibili",
+  "description": "皮皮倒带 — 公平撤回，不是作弊。回合倒带、房间检查点回退、公平模式、NoUndo勋章、种子查看。 | Fair Undo, not cheating. Turn Rewind, room checkpoints, Fair Mode, NoUndo Badge, Seed Viewer.",
+  "version": "0.9.13",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}
